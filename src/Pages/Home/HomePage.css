@@ -1,0 +1,19 @@
+.search-form {
+  height: 40px;
+  border-radius: 15px !important;
+  margin-top: 20px !important;
+  margin-left: 20px;
+}
+
+.my-search-area {
+  border-radius: 15px;
+  height: 40px;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+.search-container {
+  margin-bottom: 30px;
+}

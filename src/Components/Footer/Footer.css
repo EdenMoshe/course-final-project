@@ -1,0 +1,26 @@
+.text-white {
+  color: #ff4d6d !important;
+}
+
+.contact-section {
+  margin: 0 auto;
+  left: 20px;
+}
+
+.footerForm {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  top: 20px;
+  right: 0;
+  width: 100%;
+  background-color: #a8dadc !important;
+}
+
+.footerLink {
+  cursor: pointer;
+}
+
+.footer-section .row {
+  justify-content: center;
+}

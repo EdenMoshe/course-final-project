@@ -1,0 +1,17 @@
+.navColors {
+  background-color: #a8dadc !important;
+}
+
+.nav-link {
+  color: black !important;
+}
+
+.black-icon {
+  color: black !important ;
+}
+
+.my-active-nav-link {
+  text-align: center;
+  font-size: large;
+  cursor: pointer;
+}

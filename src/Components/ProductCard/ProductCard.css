@@ -1,0 +1,60 @@
+.card:hover {
+  transform: scale(1.02) perspective(0px);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+  background-color: #faf5f2 !important;
+  line-height: normal;
+  height: 500px !important;
+  max-width: 300px;
+  min-width: 300px !important;
+}
+
+.card-img-top {
+  object-fit: contain;
+  max-width: 50%;
+  height: 100px;
+  margin: 0 auto;
+  margin-top: 10px;
+  align-self: flex-end;
+}
+
+.card-title.name {
+  font-size: medium;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.card-text.cinfo {
+  font-size: x-small;
+  margin-bottom: auto;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-title.price {
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.card-subtitle {
+  font-size: x-small;
+}
+
+.card-text {
+  font-size: small;
+}
+
+#like-button {
+  margin-bottom: 5px;
+}
+
+.card-footer {
+  display: flex;
+  margin: 0 auto;
+  gap: 10px;
+}
